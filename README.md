@@ -3,7 +3,7 @@
 <h3 align = "center">Hello!, I am a Student. Currently learning to code and doing an Electrical and Electronics Engineering course ( First year Student ).</h3>
 
 
-* ✉️  Reach me at [vsdharshan200@gmail.com](mailto:vsdharshan200@gmail.com)
+* ✉️  Reach me at [vsdharshan2006@gmail.com](mailto:vsdharshan200@gmail.com)
 
 
 ### Skills
